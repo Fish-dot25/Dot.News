@@ -18,36 +18,29 @@
       Did you that Poland is located in Central Europe and on the south beutiful mountions and north glowing seas at night.
         <br>
         <br>
-      Here are more facts about Poland but this time food!  
+      Here are some food facts about Poland!  
   <br>
     <br>
-.Pierogi - Dumplings filled with various ingredients like potatoes, cheese, or meat.
-  
-.Bigos - A hearty stew made with sauerkraut, fresh cabbage, and various meats.
+  <ul>
+<li>Pierogi - Dumplings filled with various ingredients like potatoes, cheese, or meat.</li>
+  <br>
+<li>Bigos - A hearty stew made with sauerkraut, fresh cabbage, and various meats.</li>
 <br>
+<li>Żurek - A sour rye soup often served with sausage and hard-boiled eggs.</li>
 <br>
-.Żurek - A sour rye soup often served with sausage and hard-boiled eggs.
+<li>Kielbasa - Polish sausage, available in many varieties, often grilled or fried.</li>
 <br>
+<li>Placki ziemniaczane - Potato pancakes, typically served with sour cream or applesauce.</li>
 <br>
-.Kielbasa - Polish sausage, available in many varieties, often grilled or fried.
+<li>Sernik - A rich cheesecake made with twaróg, a type of Polish cheese.</li>
 <br>
+<li>Makowiec - Poppy seed roll, a sweet pastry filled with poppy seeds and nuts.</li>
 <br>
-.Placki ziemniaczane - Potato pancakes, typically served with sour cream or applesauce.
+<li>Barszcz - A beet soup, often served hot with sour cream or as a cold borscht.</li>
 <br>
+<li>Gołąbki - Cabbage rolls stuffed with rice and meat, baked in tomato sauce.</li>
 <br>
-.Sernik - A rich cheesecake made with twaróg, a type of Polish cheese.
-<br>
-<br>
-.Makowiec - Poppy seed roll, a sweet pastry filled with poppy seeds and nuts.
-<br>
-<br>
-.Barszcz - A beet soup, often served hot with sour cream or as a cold borscht.
-<br>
-<br>
-.Gołąbki - Cabbage rolls stuffed with rice and meat, baked in tomato sauce.
-<br>
-<br>
-.Pączki - Polish doughnuts filled with fruit preserves or sweet cream, often enjoyed on Fat Thursday.
+<li>Pączki - Polish doughnuts filled with fruit preserves or sweet cream, often enjoyed on Fat Thursday.</li>
    < /p>
 </body>
       
