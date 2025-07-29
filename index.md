@@ -6,7 +6,7 @@
 <body>
    <h1> The latest news for kids from kids </h1>
   <h3> Our news selections goes over a wide range of topics, such as Country of the Day. For each section we have a miniquiz, which we update daily
-  for a more fun aspect to news.For our to</h3>
+  for a more fun aspect to news. For our topics click one of the links below: </h3>
  
   <h6> About the creators:</h6>
   
