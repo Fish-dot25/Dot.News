@@ -3,5 +3,6 @@ body{
   text-align: center;
 }
 a {
-  border-style: ridge
+  border-style: ridge;
+  background: cyan;
 }
