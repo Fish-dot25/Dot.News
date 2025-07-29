@@ -2,3 +2,6 @@ body{
   background: green;
   text-align: center;
 }
+a {
+  border-style: ridge
+}
