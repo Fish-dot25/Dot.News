@@ -6,11 +6,11 @@
 <body>
   <h1>
     Country Of The Day
-    <h1>
+  </h1>
     <p>
     The country of the day is... Poland.
     </p>
-      <p2>
+      <p>
     Here are some facts about the geogrefy of Poland.
         <br>
         <br>
@@ -18,6 +18,6 @@
         <br>
         <br>
       Here are more facts about Poland but this time food!  
-    <p2/>
+    <p/>
       
 <body>
