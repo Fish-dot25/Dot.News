@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title> Dot News-The latest news for kids from kids </title>
  <link rel="stylesheet" href="style.css">
 </head>
 <body>
