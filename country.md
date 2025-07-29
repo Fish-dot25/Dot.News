@@ -12,8 +12,9 @@
     </p>
       <p>
     Here are some facts about the geogrefy of Poland.
-        <br>
-        <br>
+      </p>
+  <br>
+  <br>
       Did you that Poland is located in Central Europe and on the south beutiful mountions and north glowing seas at night.
         <br>
         <br>
