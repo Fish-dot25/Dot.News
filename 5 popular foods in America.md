@@ -10,6 +10,7 @@
   <h2> #1 Hamburgers </h2>
   <p> Fun fact even if the hamburger is the national dish of america it was actully made in germany </p>
   <p>The hamburger is a classic food for america, this dish is made of a grilled beef patty on a bun. The hamburger as we know it emerged in the late 19th and early 20th centuries, becoming a staple in American cuisine and spreading globally.</p>
+  <h2>#2 french fries </h2>
   
   
 </body>
