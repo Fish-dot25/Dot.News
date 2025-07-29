@@ -9,8 +9,11 @@
   for a more fun aspect to news. For our topics click one of the links below: </h3>
  <!--class="blinky"-->
   <a href="topfiveoftheday.md">Top 5</a>
+ <br>
   <a href="country.md">Country of the day!</a>
+ <br>
    <a href="sports.md">The latest in sports</a>
+ <br>
     <a href="5 popular foods in America.md">Foodstuff!</a>
  
   <h6> About the creators:</h6>
