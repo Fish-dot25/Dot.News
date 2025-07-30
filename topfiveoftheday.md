@@ -23,5 +23,16 @@
 <h2> 5.Tetris</h2>
 
 <p> Tetris is a fun singleplayer game to try to beat the whole game but very few people have beat the game.</p>
-
+  <a class="link" href="index.md">Home</a>
+ <br>
+  <a class="link" href="country.md">Country of the day!</a>
+ <br>
+  <a  class="link" href="sports.md">The latest in sports</a>
+ <br>
+  <a  class="link" href="5 popular foods in America.md">Foodstuff!</a>
+  <br>
+  <a  class="link" href="science.md">Science facts</a>
+  <br>
+<a  class="link" href="Pokemon of the day">Pokemon Of The Day</a> 
+ <br>
 
