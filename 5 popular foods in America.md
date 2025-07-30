@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 
 <head>
-   <!--This is the link connecting to the stylesheest-->
+   <!body {
+  background-color: bisque
+}
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
