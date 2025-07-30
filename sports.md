@@ -21,5 +21,5 @@
 
 <h2> 5. Luca Modrić</h2>
 
-<p>Ballon d'Or winner, six-time Champions League winner, four-time LaLiga winner, World Cup finalist, Croatia's most-capped player, joint-most trophies won with Real Madrid</p>
+<p>Ballon d'Or winner, six-time Champions League winner, four-time LaLiga winner, World Cup finalist, Croatia's most-capped player,and joint-most trophies won with Real Madrid</p>
                                                                                                                                                                                                                                
