@@ -17,6 +17,7 @@
   <p>Fun Fact even if the French fries have the word French in them they were not made in France they were made in Belgiem </p>
   <p>French fries are a popular dish of deep-fried potatoes cut into strips  They are a common side dish or snack, often served with salt and ketchup or other dipping sauces. </p>
   <h2> The #3 most popular food, fried chicken </h2>
+  <p> A fun fact about fried chicken is that even if it is the most popular in america it was actully made in scotland</p>
   
   
   
