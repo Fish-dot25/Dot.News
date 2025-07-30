@@ -24,7 +24,7 @@
     <br>
   did you know that poland has over 3.9m people on earth today.Also poland has over 120 thousand miles
   <ul>
-   < /p>
+   </p>
 </body>
       
 <body>
