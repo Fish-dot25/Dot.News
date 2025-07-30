@@ -22,6 +22,20 @@
   
   <h2> The #4 most popular food, pizza </h2>
   <p>Fun fact: pizza was the first ever food to be delivered in space</p>
+
+
+  <a class="link" href="topfiveoftheday.md">Top 5</a>
+ <br>
+  <a class="link" href="country.md">Country of the day!</a>
+ <br>
+  <a  class="link" href="sports.md">The latest in sports</a>
+ <br>
+  <a  class="link" href="index.md">Home</a>
+  <br>
+  <a  class="link" href="science.md">Science facts</a>
+  <br>
+<a  class="link" href="Pokemon of the day">Pokemon Of The Day</a> 
+ <br>
   
   
   
