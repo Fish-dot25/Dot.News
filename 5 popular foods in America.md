@@ -3,7 +3,7 @@
 <head>
    <!body {
   body {
-  background-color: bisque
+  background-color: blue
 }
 </head>
 <body>
