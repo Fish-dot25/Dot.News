@@ -2,7 +2,9 @@
 <head>
    <!--This is the link connecting to the stylesheest-->
   <link rel="stylesheet" href="style.css">
-</head> <h1> Top 5 soccer players. </h1>
+</head> 
+<body>
+<h1> Top 5 soccer players. </h1>
 
 <h2> 1.Cristiano Ronaldo</h2>
 
@@ -22,4 +24,17 @@
 <h2> 5. Luca Modrić</h2>
 
 <p>Ballon d'Or winner, six-time Champions League winner, four-time LaLiga winner, World Cup finalist, Croatia's most-capped player,and joint-most trophies won with Real Madrid</p>
+  <a class="link" href="topfiveoftheday.md">Top 5</a>
+ <br>
+  <a class="link" href="country.md">Country of the day!</a>
+ <br>
+  <a  class="link" href="index.md">Home</a>
+ <br>
+  <a  class="link" href="5 popular foods in America.md">Foodstuff!</a>
+  <br>
+  <a  class="link" href="science.md">Science facts</a>
+  <br>
+<a  class="link" href="Pokemon of the day">Pokemon Of The Day</a> 
+ <br>
+</body>
                                                                                                                                                                                                                                
