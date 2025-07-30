@@ -6,9 +6,8 @@
   background-color: bisque
 }
 </head>
-<body>{
-  background-color: red
-}
+<body>
+  
   <h1> The five most popular foods in America </h1>
   <P>There are a lot of different types of popular foods in America but the five most popular are #1 Hamburgers, #2 french fries, #3 fried chicken, #4 pizza and #5 hot dogs</p>
   <h2> The #1 most popular food, Hamburgers </h2>
