@@ -19,7 +19,7 @@
   <h2> The #3 most popular food, fried chicken </h2>
   <p> A fun fact about fried chicken is that even if it is the most popular in america it was actully made in scotland</p>
   
-  <h3> The #4 most popular food, pizza </h3>
+  <h2> The #4 most popular food, pizza </h2>
   <p>fun fact, pizza was the first ever food to be delivered in space</p>
   
   
