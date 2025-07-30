@@ -1,4 +1,7 @@
 body{
   background: red;
 }
-  
+
+a {
+  border-width: 10;
+}
