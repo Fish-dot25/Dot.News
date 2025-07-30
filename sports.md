@@ -2,6 +2,7 @@
 <head>
    <!--This is the link connecting to the stylesheest-->
   <link rel="stylesheet" href="style.css">
+   
 </head> 
 <body>
 <h1> Top 5 soccer players. </h1>
