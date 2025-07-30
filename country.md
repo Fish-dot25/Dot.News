@@ -8,10 +8,11 @@
     Country Of The Day
   </h1>
     <p>
-    The country of the day is... Poland.
+    The country of the day is... 
+      <h1>Poland!</h1>
     </p>
       <p>
-    Here are some facts about the geogrefy of Poland.
+    Here are some facts about the geography of Poland.
       </p>
   <br>
 <p>
