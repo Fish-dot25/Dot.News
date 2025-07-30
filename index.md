@@ -18,8 +18,10 @@
   <br>
   <a  class="link" href="science.md">Science facts</a>
   <br>
-<a  class="link" href="sports.md">Sports: Soccer Week</a> 
+<a  class="link" href="Pokemon of the day">Pokemon Of The Day</a> 
  <br>
+
+ 
   <h6> About the creators:</h6>
   <ol>
 <li> Ish</li>
