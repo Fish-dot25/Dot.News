@@ -17,7 +17,7 @@
 
   <h3>More geography!</h3>
   <ul>
-    <li>Diverse landscapes including beaches, mountains, and even the Pustynia Błędowska desert.</li>
+    <li>There are multiple landscapes including beaches, mountains, and even the Pustynia Błędowska desert.</li>
     <li>Białowieża Forest is home to European bison—the continent’s largest land animals.</li>
   </ul>
 
@@ -28,14 +28,14 @@
     <li>Poland vanished from world maps for 123 years due to partitions by neighboring empires.</li>
   </ul>
 
-  <h3>🎓 Culture & Achievements</h3>
+  <h3> Culture and Achievements</h3>
   <ul>
     <li>Marie Curie, Nobel laureate in two sciences, was born in Poland.</li>
     <li>Home to 16 UNESCO World Heritage Sites, like Malbork Castle—the largest brick castle on Earth.</li>
     <li>The Warsaw Radio Mast was once the tallest structure on the planet.</li>
   </ul>
 
-  <h3>🎉 Traditions & Fun Facts</h3>
+  <h3>Traditions and Cool Facts</h3>
   <ul>
     <li>Poles celebrate Name Days with as much gusto as birthdays.</li>
     <li>On Easter Monday, expect a splash-fest called Śmigus-Dyngus!</li>
