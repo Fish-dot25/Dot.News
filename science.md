@@ -11,7 +11,7 @@
 <p>Yes, it's true. It sounds too good but it's true. Several eco-friendly, biodegradable (dissolvable) plastics have emerged, including those that dissolve in seawater and even deep-sea environments. One noticable example is LAHB, a lactate-based polyester that breaks down in deep-sea conditions,like water pressure, which are usually hard for plastic degradation. Additionally, research continues on PHA (polyhydroxyalkanoates), a bioplastic known for its biodegradability and potential for lower emissions.</p> </li>
 <li><h2> NASA robots searching for life</h2>
 NASA developed robotic technologies to explore the icy moons of Jupiter and Saturn, like Europa and Enceladus, and search for signs of life. A key concept involves small, auto swimming robots, like those in the SWIM project, that would be deployed into submerged oceans after being delivered by a cryobot (an ice-melting robot). These robots will search for chemical and temperature signatures chracteristics of habitability or life. This made NASA launch the Europa Clipper mission to explore Jupiter's icy moon Europa, which is considered a main location to search for signs of extraterrestrial(Not earth) life. The mission's main goal is to investigate whether the conditions on Europa could support life. </li>
- <a class="link" href="topfiveoftheday.md">Top 5</a>
+   <a class="link" href="topfiveoftheday.md">Top 5</a>
  <br>
   <a class="link" href="country.md">Country of the day!</a>
  <br>
@@ -20,7 +20,9 @@ NASA developed robotic technologies to explore the icy moons of Jupiter and Satu
   <a  class="link" href="5 popular foods in America.md">Foodstuff!</a>
   <br>
   <a  class="link" href="index.md">Home</a>
-
+  <br>
+<a  class="link" href="Pokemon of the day">Pokemon Of The Day</a> 
+ <br>
 
 
 
