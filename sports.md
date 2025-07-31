@@ -19,7 +19,7 @@
 
 <p> FIFA World Cup winner, UEFA European Championship winner, two-time Premier League winner, LaLiga winner, two-time FA Cup winner, Champions League winner, Ligue 1 winner, Copa del Rey winner, and Club World Cup winner</p
                                                                                                                           
- <h2> 4.Zinedine Zidane</h2>                                                                                                                         
+ <h2> 4.Zinedine Zidane </h2>                                                                                                                         
 <p> FIFA World Cup winner, UEFA European Championship winner, two-time Serie A winner, Champions League winner, LaLiga winner, Ballon d'Or winner, and Intercontinental Cup winner</p>  
 
 <h2> 5. Luca Modrić</h2>
