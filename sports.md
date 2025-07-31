@@ -17,7 +17,7 @@
 
 <h2> 3.Thierry Henry</h2>
 
-<p> FIFA World Cup winner, UEFA European Championship winner, two-time Premier League winner, LaLiga winner, two-time FA Cup winner, Champions League winner, Ligue 1 winner, Copa del Rey winner, and Club World Cup winner</p
+<p> FIFA World Cup winner, UEFA European Championship winner, two-time Premier League winner, LaLiga winner, two-time FA Cup winner, Champions League winner, Ligue 1 winner, Copa del Rey winner, and Club World Cup winner</p>
 
                                                                                                                           
  <h2> 4.Zinedine Zidane </h2>                                                                                                                         
