@@ -9,3 +9,5 @@ onEvent("ClassBookRecommender_predict", "click", function() {
       setText("ClassBookRecommender_prediction", value);
     });
   });
+
+
