@@ -1,5 +1,5 @@
 <head> <h2> Pokemon of the day </h2> </head>
-<body> <p> Today the pokemon of the day is Lugia and Ho-Oh two mythical pokemons. Lugia is psychic and flying and Ho-Oh is flying and fire. </p></body>
+<body> <p> Today the pokemon of the day is Geodude. Geodude is a rock/ground pokemon, it has two evolutions and it also has a alolan type which is a rock/electric type and it is a roaming Pokemon </p></body>
 
   <a class="link" href="topfiveoftheday.md">Top 5</a>
  <br>
