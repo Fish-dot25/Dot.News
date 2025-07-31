@@ -14,15 +14,15 @@
 
 <h2> 3.GTA </h2>
 
-<p> GTA is a single and muliplayer game in a city where you have quests and have to sometime run from the police and the currency is money for clothes to show off in multiplayer.</p>
+<p> GTA is a single and muliplayer game in a city where you are a crminal,have quests and have to sometime run from the police and the currency is money for clothes to show off in multiplayer.</p>
 
 <h2> 4.Minecraft</h2>
 
-<p> Minecraft is a single and muliplayer game where you need to survive in order to defeat the ender dragon, it also has biomes and many maps by many people. </p>
+<p> Minecraft is a single and muliplayer game where you need to mine,survive, and craft in order to defeat the ender dragon, it also has biomes and many maps by many people. </p>
 
 <h2> 5.Tetris</h2>
 
-<p> Tetris is a fun singleplayer game to try to beat the whole game but very few people have beat the game.</p>
+<p> Tetris is a fun singleplayer game to create lines across to delete them but very few people have beat the game.</p>
   <a class="link" href="index.md">Home</a>
  <br>
   <a class="link" href="country.md">Country of the day!</a>
