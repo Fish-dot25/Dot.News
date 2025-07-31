@@ -25,7 +25,7 @@
   <h6> About the creators:</h6>
   <ol>
 <li> Ish</li>
-<li> Yuvio</li>
+<li> Yuvi</li>
 <li> Aham</li>
 <li>Diego</li>
    
