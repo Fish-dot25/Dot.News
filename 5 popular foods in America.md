@@ -24,9 +24,11 @@
   <p>Fun fact: pizza was the first ever food to be delivered in space</p>
   <p>Pizza is a popular Italian food, made of a flat, round base of dough topped with sauce, cheese, and various other ingredients, then baked . It was made in Naples, Italy, and has become a global favorite. </p>
   <h2>The #5 most popular food, Hot Dogs</h2>
+  <p> A fun fact about hot dogs is that it was one of the first foods eaten on the moon</p>
+  <p>A hot dog is a cooked sausage, traditionally served in a sliced bun. Hot dogs are a popular food in many countries, but mainly in the United States.</p>
+
+<h1>More info about other things</h1>
   
-
-
   <a class="link" href="topfiveoftheday.md">Top 5</a>
  <br>
   <a class="link" href="country.md">Country of the day!</a>
