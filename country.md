@@ -7,8 +7,7 @@
 </head>
 <body>
   <h1>Country Of The Day</h1>
-  <h2>Poland!
-</h2>
+  <h2>Poland!</h2> <img src="https://github.com/Fish-dot25/Dot.News/blob/ed427f11ec7aded02bca423a95c5f04148b48578/th.jpg" alt="poland image">
 
   <p>Here are some fascinating facts about the geography of Poland:</p>
 
