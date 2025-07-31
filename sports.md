@@ -36,7 +36,7 @@
   <br>
   <a  class="link" href="science.md">Science facts</a>
   <br>
-<a  class="link" href="Pokemon of the day">Pokemon Of The Day</a> 
+<a  class="link" href="Pokemon of the day.md">Pokemon Of The Day</a> 
  <br>
 </body>
                                                                                                                                                                                                                                
