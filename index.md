@@ -11,7 +11,7 @@
  <!--class="blinky"-->
 <a class="link" href="topfiveoftheday.md">Top 5</a>  
  <br>
-<a class="link" href="https://onecompiler.com/html/43sdyduq2">Country of the day!</a>  
+<a class="link" target="_blank" href="https://onecompiler.com/html/43sdyduq2">Country of the day!</a>  
  <br>
 <a  class="link" href="sports.md">The latest in sports</a>  
  <br>
