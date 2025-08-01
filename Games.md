@@ -96,5 +96,8 @@
       document.getElementById('result').textContent = '';
     }
   </script>
+  <br>
+  <br>
+  <a target="_blank" href="https://github.com/Fish-dot25/Dot.News/blob/main/country.md">Click to go back</a>
 </body>
 </html>
