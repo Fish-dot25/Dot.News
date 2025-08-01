@@ -32,7 +32,7 @@ r<!DOCTYPE html>
 <p><i>Soccer-Europe</i></p>
 
 <h2> 5. Luca Modrić</h2>
-<img src="soccer images/Luka.jpeg" alt="Luka">
+<img src="soccer images/Luka.webp" alt="Luka">
 <p><i>The Sporting News</i></p>
 
 <p>Ballon d'Or winner, six-time Champions League winner, four-time LaLiga winner, World Cup finalist, Croatia's most-capped player,and joint-most trophies won with Real Madrid</p>
