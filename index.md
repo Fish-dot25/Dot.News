@@ -11,7 +11,7 @@
  <!--class="blinky"-->
 <a class="link" href="topfiveoftheday.md">Top 5</a>  
  <br>
-<a class="link" target="_blank" href="https://www.programiz.com/html/online-compiler/">Country of the day!</a>  
+<a class="link" target="_blank" href="https://fish-dot25.github.io/Dot.News/guess-the-country.html">Country of the day!</a>  
  <br>
 <a  class="link" href="sports.md">The latest in sports</a>  
  <br>
