@@ -1,6 +1,7 @@
 <head> <h2> Pokemon of the day </h2> </head>
 <body> <p> Today the pokemon of the day is Rookidee. Rookidee is a flying pokemon, it has two evolutions and it also in his final form it can G-max which makes it very powerful and it is a roaming Pokemon </p>
-<img src
+<img src="rookidee.jpeg" alt="Rookidee image">
+  <a href="https://www.pokemon.com"><i> Pokemon.com</i></p></a>
 </body>
 
   <a class="link" href="topfiveoftheday.md">Top 5</a>
