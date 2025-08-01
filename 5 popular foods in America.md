@@ -11,21 +11,35 @@
   <h1> The five most popular foods in America </h1>
   <P>There are a lot of different types of popular foods in America but the five most popular are #1 Hamburgers, #2 french fries, #3 fried chicken, #4 pizza and #5 hot dogs</p>
   <h2> The #1 most popular food, Hamburgers </h2>
+  <img src="food/burger.jpeg" alt="Hamburger">
+  <p><i>The Washington Post</i></p>
   <p> Fun fact: even if the hamburger is the national dish of america it was actully made in germany </p>
   <p>The hamburger is a classic food for america, this dish is made of a grilled beef patty on a bun. The hamburger as we know it emerged in the late 19th and early 20th centuries, becoming a staple in American cuisine and spreading globally.</p>
+  
   <h2> The #2 most popular food, french fries </h2>
+    <img src="food/fries.jpeg" alt="French Fries">
+    <p><i>Crownful</i></p>
   <p>Fun Fact: even if the French fries have the word French in them they were not made in France they were made in Belgiem </p>
   <p>French fries are a popular dish of deep-fried potatoes cut into strips  They are a common side dish or snack, often served with salt and ketchup or other dipping sauces. </p>
+  
   <h2> The #3 most popular food, fried chicken </h2>
+    <img src="food/kfc.jpeg" alt="Fried Chicken">
+    <p><i> Instant Pot Cooking </i><p>
   <p> Fun fact: about fried chicken is that even if it is the most popular in america it was actully made in scotland</p>
   <p>Fried chicken is a dish that has of chicken pieces that are coated in seasoned flour or batter and then fried. It's a globally popular but mainly in the Southern United States. </p>
   
   <h2> The #4 most popular food, pizza </h2>
+    <img src="food/pizzaz.jpeg" alt="Pizza">
+    <p><i>Allrecipes</i></p>
   <p>Fun fact: pizza was the first ever food to be delivered in space</p>
   <p>Pizza is a popular Italian food, made of a flat, round base of dough topped with sauce, cheese, and various other ingredients, then baked . It was made in Naples, Italy, and has become a global favorite. </p>
+
   <h2>The #5 most popular food, Hot Dogs</h2>
+    <img src="food/glizzy.jpeg" alt="Hot Dog">
+    <p><i>Wikipedia, The Free Encyclopedia</i></p>
+  
   <p> A fun fact about hot dogs is that it was one of the first foods eaten on the moon</p>
-  <p>A hot dog is a cooked sausage, traditionally served in a sliced bun. Hot dogs are a popular food in many countries, but mainly in the United States.</p>
+  <p>A hot dog is a cooked sausage, traditionally served in a sliced bun. Hot dogs are a popular food in many countries, but mainly in the United States.They are also called glizzies.</p>
 
 <h1>More info about other things</h1>
   
